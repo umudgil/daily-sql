@@ -8,17 +8,5 @@ This repository contains my **SQL practice**, focused entirely on:
 
 The purpose of this repo is to stay consistent on SQL learning.
 
----
-
-## What This Repo Contains
-
-### LeetCode SQL Solutions
-All SQL problems from LeetCode are stored here:
-├── daily-sql/
-│   ├── easy/
-│   ├── medium/
-│   ├── hard/
-│   ├── notes/
-
 
 
