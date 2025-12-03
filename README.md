@@ -14,10 +14,11 @@ The purpose of this repo is to stay consistent on SQL learning.
 
 ### LeetCode SQL Solutions
 All SQL problems from LeetCode are stored here:
-daily-sql/
-│── easy/
-│── medium/
-└── hard/
+├── daily-sql/
+│   ├── easy/
+│   ├── medium/
+│   ├── hard/
+│   ├── notes/
 
 
 
